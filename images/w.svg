@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--UserId:796ba04a-cc21-4815-99e2-652d8da52057,DocId:b32d057a-7719-4563-91c2-7db8112d04b2,SkinCD:CLC1,SDCL:#fe7a66-->
+<svg version="1.1" width="612px" height="792px" viewBox="0 0 612 792" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cs="svg" xml:space="preserve"><style type="text/css">@font-face{font-family:'Arial'; src:url(data:font/otf;base64,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) format("opentype");font-display:swap}
+@font-face{font-family:'Arial'; src:url(data:font/otf;base64,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) format("opentype");font-display:swap}
+.ps06{fill-opacity:0.2;stroke-opacity:0.2;fill:#FE7966}
+.ps03{fill-opacity:0.549;stroke-opacity:0.549;fill:#FE7966}
+.ps01{fill:#303030}
+.ps02{fill:#303030}
+.ps04{fill:#333A3F}
+.ps05{fill:#595959}
+.ps00{fill:none}
+.ps20{letter-spacing:0;word-spacing:0;font-family:'Arial';font-size:10px}
+.ps21{letter-spacing:0;word-spacing:0;font-family:'Arial';font-size:26px}
+.ps22{letter-spacing:0;word-spacing:0;font-family:'Arial';font-size:9px}</style>
+<clipPath id="clp1">
+<rect width="612" height="792" />
+</clipPath>
+<g clip-path="url(#clp1)" transform="matrix(1 0 0 -1 0 792)">
+<g>
+<g transform="matrix(1.342 0 0 1.342 0 30)">
+<clipPath id="clp2">
+<rect width="459" height="545.4" />
+</clipPath>
+<g clip-path="url(#clp2)">
+<g>
+<g transform="matrix(0.745 0 0 -0.745 0 545.435)">
+<g>
+<clipPath id="clp3">
+<path d="M0 0 L616.11 0 L616.11 731.55 L0 731.55 Z" />
+</clipPath>
+<g clip-path="url(#clp3)">
+<g class="ps00">
+<clipPath id="clp4">
+<path d="M65.001 72.001 L184 72.001 L184 93 L65.001 93 Z" />
+</clipPath>
+<g clip-path="url(#clp4)">
+<g class="ps00">
+<text transform="matrix(1 0 0 1 70 86.412)"><tspan x="0,5.56,10.56" class="ps01 ps20">exa</tspan>
+<tspan x="16.13,24.46,30.02,32.24,37.8,47.95,53.51" class="ps01 ps20">mple@ex</tspan>
+<tspan x="58.52,64.08,72.41,77.97,80.19,85.75,88.52" class="ps01 ps20">ample.c</tspan>
+<tspan x="93.53,99.09" class="ps01 ps20">om</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp5">
+<path d="M210 72.001 L291 72.001 L291 93 L210 93 Z" />
+</clipPath>
+<g clip-path="url(#clp5)">
+<g class="ps00">
+<text transform="matrix(1 0 0 1 215.737 86.412)"><tspan x="0,3.33,8.89,14.45,20.01" class="ps01 ps20">(555)</tspan>
+<tspan xml:space="preserve" x="23.35,26.12,31.68,37.24,42.8,46.13,51.69,57.25,62.81" class="ps01 ps20"> 555-5555</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp6">
+<path d="M311 72.001 L349 72.001 L349 93 L311 93 Z" />
+</clipPath>
+<g clip-path="url(#clp6)">
+<g class="ps00">
+<text transform="matrix(1 0 0 1 316.887 86.412)"><tspan class="ps01 ps20">R</tspan>
+<tspan x="7.23,9.45,15.01" class="ps01 ps20">ial</tspan>
+<tspan x="17.24,20.01" class="ps01 ps20">to</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp7">
+<path d="M337 72.001 L353 72.001 L353 93 L337 93 Z" />
+</clipPath>
+<g clip-path="url(#clp7)">
+<g class="ps00">
+<text transform="matrix(1 0 0 1 342.462 86.412)"><tspan class="ps01 ps20">,</tspan>
+<tspan xml:space="preserve" x="2.78" class="ps01 ps20"> </tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp8">
+<path d="M343 72.001 L368 72.001 L368 93 L343 93 Z" />
+</clipPath>
+<g clip-path="url(#clp8)">
+<g class="ps00">
+<text transform="matrix(1 0 0 1 348.012 86.412)"><tspan class="ps01 ps20">C</tspan>
+<tspan x="7.23" class="ps01 ps20">A</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp9">
+<path d="M359 72.001 L399 72.001 L399 93 L359 93 Z" />
+</clipPath>
+<g clip-path="url(#clp9)">
+<g class="ps00">
+<text transform="matrix(1 0 0 1 364.687 86.412)"><tspan x="0,5.56" class="ps01 ps20">92</tspan>
+<tspan x="11.13,16.69,22.25" class="ps01 ps20">376</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp10">
+<path d="M44.998 106 L112 106 L112 127 L44.998 127 Z" />
+</clipPath>
+<g clip-path="url(#clp10)">
+<g class="ps00">
+<text transform="matrix(1 0 0 1 50 120.912)"><tspan x="0,7.22" class="ps01 ps20">No</tspan>
+<tspan x="12.79" class="ps01 ps20">v</tspan>
+<tspan x="17.05" class="ps01 ps20">.</tspan>
+<tspan xml:space="preserve" x="19.83,22.6,28.16" class="ps01 ps20"> 9,</tspan>
+<tspan xml:space="preserve" x="30.94,33.71,39.27" class="ps01 ps20"> 20</tspan>
+<tspan x="44.84,50.4" class="ps01 ps20">22</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp11">
+<path d="M44.998 133 L108 133 L108 154 L44.998 154 Z" />
+</clipPath>
+<g clip-path="url(#clp11)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 147.912)"><tspan x="0,7.22" y="1e-005" class="ps01 ps20">Ch</tspan>
+<tspan x="12.79,16.12,18.34,23.34,26.11" y="1e-005" class="ps01 ps20">risto</tspan>
+<tspan x="31.68,37.24,42.8,48.36" y="1e-005" class="ps01 ps20">pher</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp12">
+<path d="M98.999 133 L269 133 L269 154 L98.999 154 Z" />
+</clipPath>
+<g clip-path="url(#clp12)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 104.462 147.912)"><tspan x="0,7.22" y="1e-005" class="ps01 ps20">Co</tspan>
+<tspan x="12.79,18.35,23.91" y="1e-005" class="ps01 ps20">ope</tspan>
+<tspan x="29.48" y="1e-005" class="ps01 ps20">r</tspan>
+<tspan x="32.25" y="1e-005" class="ps01 ps20">,</tspan>
+<tspan xml:space="preserve" x="35.03,37.8,45.02,50.58,58.91" y="1e-005" class="ps01 ps20"> Huma</tspan>
+<tspan x="64.48,70.04,72.81,80.03,85.59" y="1e-005" class="ps01 ps20">n Res</tspan>
+<tspan x="90.6,96.16,101.72,105.05,110.05" y="1e-005" class="ps01 ps20">ource</tspan>
+<tspan x="115.62,120.62,123.39,130.61,132.83,136.16" y="1e-005" class="ps01 ps20">s Dire</tspan>
+<tspan x="141.73,146.73,149.5,155.06" y="1e-005" class="ps01 ps20">ctor</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp13">
+<path d="M44.998 152 L102 152 L102 173 L44.998 173 Z" />
+</clipPath>
+<g clip-path="url(#clp13)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 166.912)"><tspan x="0,7.22" y="1e-005" class="ps01 ps20">Ne</tspan>
+<tspan x="12.79,20.01,22.78" y="1e-005" class="ps01 ps20">w N</tspan>
+<tspan x="30.01,35.57,40.57" y="1e-005" class="ps01 ps20">avy</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp14">
+<path d="M44.998 171 L110 171 L110 192 L44.998 192 Z" />
+</clipPath>
+<g clip-path="url(#clp14)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 185.912)"><tspan y="1e-005" class="ps01 ps20">S</tspan>
+<tspan x="6.67,12.23,17.23,20.56,26.12" y="1e-005" class="ps01 ps20">acram</tspan>
+<tspan x="34.46,40.02,45.58,48.35" y="1e-005" class="ps01 ps20">ento</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp15">
+<path d="M98.002 171 L114 171 L114 192 L98.002 192 Z" />
+</clipPath>
+<g clip-path="url(#clp15)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 103.912 185.912)"><tspan y="1e-005" class="ps01 ps20">,</tspan>
+<tspan xml:space="preserve" x="2.78" y="1e-005" class="ps01 ps20"> </tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp16">
+<path d="M104 171 L130 171 L130 192 L104 192 Z" />
+</clipPath>
+<g clip-path="url(#clp16)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 109.462 185.912)"><tspan y="1e-005" class="ps01 ps20">C</tspan>
+<tspan x="7.23" y="1e-005" class="ps01 ps20">A</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp17">
+<path d="M121 171 L160 171 L160 192 L121 192 Z" />
+</clipPath>
+<g clip-path="url(#clp17)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 126.137 185.912)"><tspan x="0,5.56" y="1e-005" class="ps01 ps20">95</tspan>
+<tspan x="11.13,16.69,22.25" y="1e-005" class="ps01 ps20">820</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp18">
+<path d="M44.998 190 L119 190 L119 211 L44.998 211 Z" />
+</clipPath>
+<g clip-path="url(#clp18)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 204.912)"><tspan x="0,5.56,11.12,16.68" y="1e-005" class="ps01 ps20">555-</tspan>
+<tspan x="20.02,25.58,31.14,36.7,40.03,45.59,51.15,56.71" y="1e-005" class="ps01 ps20">555-5555</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp19">
+<path d="M44.998 209 L164 209 L164 230 L44.998 230 Z" />
+</clipPath>
+<g clip-path="url(#clp19)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 223.912)"><tspan x="0,5.56,10.56" y="1e-005" class="ps01 ps20">exa</tspan>
+<tspan x="16.13,24.46,30.02,32.24,37.8,47.95,53.51" y="1e-005" class="ps01 ps20">mple@ex</tspan>
+<tspan x="58.52,64.08,72.41,77.97,80.19,85.75,88.52" y="1e-005" class="ps01 ps20">ample.c</tspan>
+<tspan x="93.53,99.09" y="1e-005" class="ps01 ps20">om</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp20">
+<path d="M44.998 236 L133 236 L133 257 L44.998 257 Z" />
+</clipPath>
+<g clip-path="url(#clp20)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 250.912)"><tspan x="0,7.22,12.78,18.34,21.67,24.44" y="1e-005" class="ps01 ps20">Dear M</tspan>
+<tspan x="32.78" y="1e-005" class="ps01 ps20">r</tspan>
+<tspan x="35.55" y="1e-005" class="ps01 ps20">.</tspan>
+<tspan xml:space="preserve" x="38.33,41.1,48.32" y="1e-005" class="ps01 ps20"> Co</tspan>
+<tspan x="53.89,59.45,65.01" y="1e-005" class="ps01 ps20">ope</tspan>
+<tspan x="70.58" y="1e-005" class="ps01 ps20">r</tspan>
+<tspan x="73.35" y="1e-005" class="ps01 ps20">,</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp21">
+<path d="M44.998 263 L559 263 L559 284 L44.998 284 Z" />
+</clipPath>
+<g clip-path="url(#clp21)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 277.912)"><tspan y="1e-005" class="ps01 ps20">I</tspan>
+<tspan xml:space="preserve" x="2.78,5.55,11.11,19.44" y="1e-005" class="ps01 ps20"> am </tspan>
+<tspan x="22.22,29.44,32.77,34.99" y="1e-005" class="ps01 ps20">writ</tspan>
+<tspan xml:space="preserve" x="37.77,39.99,45.55,51.11" y="1e-005" class="ps01 ps20">ing </tspan>
+<tspan x="53.89,56.11,61.67,64.44" y="1e-005" class="ps01 ps20">in r</tspan>
+<tspan x="67.78,73.34,78.34" y="1e-005" class="ps01 ps20">esp</tspan>
+<tspan x="83.91,89.47,95.03,100.03" y="1e-005" class="ps01 ps20">onse</tspan>
+<tspan xml:space="preserve" x="105.6,108.37,111.14,116.7" y="1e-005" class="ps01 ps20"> to </tspan>
+<tspan xml:space="preserve" x="119.48,122.25,127.81,133.37" y="1e-005" class="ps01 ps20">the </tspan>
+<tspan x="136.15,141.71,147.27,152.27" y="1e-005" class="ps01 ps20">posi</tspan>
+<tspan x="154.5,157.27,159.49,165.05" y="1e-005" class="ps01 ps20">tion</tspan>
+<tspan xml:space="preserve" x="170.62,173.39,178.95,181.72" y="1e-005" class="ps01 ps20"> of </tspan>
+<tspan x="184.5,189.5,195.06,200.62" y="1e-005" class="ps01 ps20">seni</tspan>
+<tspan x="202.85,208.41,211.74,214.51" y="1e-005" class="ps01 ps20">or g</tspan>
+<tspan x="220.08,225.64,231.2,236.76" y="1e-005" class="ps01 ps20">ener</tspan>
+<tspan x="240.1,245.66,247.88,250.65" y="1e-005" class="ps01 ps20">al m</tspan>
+<tspan x="258.99,264.55,270.11,275.67" y="1e-005" class="ps01 ps20">anag</tspan>
+<tspan x="281.24,286.8" y="1e-005" class="ps01 ps20">er</tspan>
+<tspan xml:space="preserve" x="289.58,292.35" y="1e-005" class="ps01 ps20">, </tspan>
+<tspan x="295.13,300.69,306.25,311.25" y="1e-005" class="ps01 ps20">adve</tspan>
+<tspan x="316.82,320.15,322.92" y="1e-005" class="ps01 ps20">rti</tspan>
+<tspan xml:space="preserve" x="325.15,330.15,335.71,341.27" y="1e-005" class="ps01 ps20">sed </tspan>
+<tspan xml:space="preserve" x="344.05,349.61,354.61" y="1e-005" class="ps01 ps20">as </tspan>
+<tspan x="357.39,362.95,368.51,370.73" y="1e-005" class="ps01 ps20">bein</tspan>
+<tspan x="376.3,381.86,384.63" y="1e-005" class="ps01 ps20">g o</tspan>
+<tspan x="390.2,395.76,401.32" y="1e-005" class="ps01 ps20">pen</tspan>
+<tspan xml:space="preserve" x="406.89,409.66,411.88,417.44" y="1e-005" class="ps01 ps20"> in </tspan>
+<tspan x="420.22,427.44,433" y="1e-005" class="ps01 ps20">New</tspan>
+<tspan xml:space="preserve" x="440.23,443,450.22,455.78" y="1e-005" class="ps01 ps20"> Nav</tspan>
+<tspan x="460.79" y="1e-005" class="ps01 ps20">y</tspan>
+<tspan x="465.05" y="1e-005" class="ps01 ps20">.</tspan>
+<tspan xml:space="preserve" x="467.83,470.6,473.37" y="1e-005" class="ps01 ps20"> It</tspan>
+<tspan xml:space="preserve" x="476.15,478.92" y="1e-005" class="ps01 ps20"> c</tspan>
+<tspan x="483.93,489.49,495.05" y="1e-005" class="ps01 ps20">oul</tspan>
+<tspan x="497.28" y="1e-005" class="ps01 ps20">d</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp22">
+<path d="M44.998 282 L563 282 L563 303 L44.998 303 Z" />
+</clipPath>
+<g clip-path="url(#clp22)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 296.912)"><tspan x="0,5.56" y="1e-005" class="ps01 ps20">be</tspan>
+<tspan xml:space="preserve" x="11.13,13.9,18.9,24.46" y="1e-005" class="ps01 ps20"> suc</tspan>
+<tspan x="29.47,35.03,37.8,43.36" y="1e-005" class="ps01 ps20">h an</tspan>
+<tspan xml:space="preserve" x="48.93,51.7,57.26,62.82" y="1e-005" class="ps01 ps20"> opp</tspan>
+<tspan x="68.39,73.95,77.28,80.05" y="1e-005" class="ps01 ps20">ortu</tspan>
+<tspan x="85.62,91.18,93.4" y="1e-005" class="ps01 ps20">nit</tspan>
+<tspan x="96.18" y="1e-005" class="ps01 ps20">y</tspan>
+<tspan xml:space="preserve" x="100.44,103.21" y="1e-005" class="ps01 ps20">, </tspan>
+<tspan x="105.99,111.55,114.32,119.32" y="1e-005" class="ps01 ps20">a ca</tspan>
+<tspan x="124.89,128.22,133.78" y="1e-005" class="ps01 ps20">ree</tspan>
+<tspan x="139.35,142.68,145.45,151.01" y="1e-005" class="ps01 ps20">r hi</tspan>
+<tspan x="153.24,158.8,164.36,166.58" y="1e-005" class="ps01 ps20">ghli</tspan>
+<tspan x="168.81,174.37,179.93,182.7" y="1e-005" class="ps01 ps20">ght,</tspan>
+<tspan xml:space="preserve" x="185.48,188.25,191.02" y="1e-005" class="ps01 ps20"> to</tspan>
+<tspan xml:space="preserve" x="196.59,199.36,206.58,212.14" y="1e-005" class="ps01 ps20"> wor</tspan>
+<tspan x="215.48,220.48,223.25,226.02" y="1e-005" class="ps01 ps20">k fo</tspan>
+<tspan xml:space="preserve" x="231.59,234.92,237.69,243.25" y="1e-005" class="ps01 ps20">r a </tspan>
+<tspan x="246.03,251.03,256.59" y="1e-005" class="ps01 ps20">com</tspan>
+<tspan x="264.93,270.49,276.05,281.61" y="1e-005" class="ps01 ps20">pany</tspan>
+<tspan xml:space="preserve" x="286.62,289.39,292.16,297.72" y="1e-005" class="ps01 ps20"> tha</tspan>
+<tspan x="303.29,306.06,308.83,313.83" y="1e-005" class="ps01 ps20">t cu</tspan>
+<tspan x="319.4,321.62,324.39" y="1e-005" class="ps01 ps20">lti</tspan>
+<tspan x="326.62,331.62,337.18,339.95" y="1e-005" class="ps01 ps20">vate</tspan>
+<tspan x="345.52,350.52,353.29,355.51" y="1e-005" class="ps01 ps20">s in</tspan>
+<tspan x="361.08,366.08,368.3,373.86" y="1e-005" class="ps01 ps20">clus</tspan>
+<tspan x="378.87,381.09,386.09,388.31" y="1e-005" class="ps01 ps20">ivit</tspan>
+<tspan x="391.09" y="1e-005" class="ps01 ps20">y</tspan>
+<tspan x="395.35" y="1e-005" class="ps01 ps20">,</tspan>
+<tspan xml:space="preserve" x="398.13,400.9,406.46" y="1e-005" class="ps01 ps20"> an</tspan>
+<tspan x="412.03,417.59,420.36,425.92" y="1e-005" class="ps01 ps20">d eq</tspan>
+<tspan x="431.49,437.05,442.61" y="1e-005" class="ps01 ps20">ual</tspan>
+<tspan x="444.84,447.06,449.83" y="1e-005" class="ps01 ps20">ity</tspan>
+<tspan xml:space="preserve" x="454.84,457.61,463.17,468.73" y="1e-005" class="ps01 ps20"> and</tspan>
+<tspan xml:space="preserve" x="474.3,477.07,482.63" y="1e-005" class="ps01 ps20"> a </tspan>
+<tspan x="485.41,492.63,498.19" y="1e-005" class="ps01 ps20">wor</tspan>
+<tspan x="501.53" y="1e-005" class="ps01 ps20">k</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp23">
+<path d="M44.998 301 L556 301 L556 322 L44.998 322 Z" />
+</clipPath>
+<g clip-path="url(#clp23)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 315.912)"><tspan x="0,5" y="1e-005" class="ps01 ps20">cu</tspan>
+<tspan x="10.57,12.79,15.56,21.12" y="1e-005" class="ps01 ps20">ltur</tspan>
+<tspan x="24.46,30.02,32.79,35.56" y="1e-005" class="ps01 ps20">e th</tspan>
+<tspan xml:space="preserve" x="41.13,46.69,49.46" y="1e-005" class="ps01 ps20">at </tspan>
+<tspan x="52.24,57.8,61.13,66.69" y="1e-005" class="ps01 ps20">prom</tspan>
+<tspan x="75.03,80.59,83.36,88.92" y="1e-005" class="ps01 ps20">otes</tspan>
+<tspan xml:space="preserve" x="93.93,96.7,102.26" y="1e-005" class="ps01 ps20"> po</tspan>
+<tspan x="107.83,112.83,117.83,120.05" y="1e-005" class="ps01 ps20">ssib</tspan>
+<tspan x="125.62,127.84,130.06,132.28" y="1e-005" class="ps01 ps20">ilit</tspan>
+<tspan x="135.06,137.28,142.84" y="1e-005" class="ps01 ps20">ies</tspan>
+<tspan x="147.85,150.62,153.39,161.72" y="1e-005" class="ps01 ps20">. My</tspan>
+<tspan xml:space="preserve" x="166.73,169.5,175.06,180.06" y="1e-005" class="ps01 ps20"> exp</tspan>
+<tspan x="185.63,191.19,194.52" y="1e-005" class="ps01 ps20">eri</tspan>
+<tspan x="196.75,202.31,207.87,212.87" y="1e-005" class="ps01 ps20">ence</tspan>
+<tspan xml:space="preserve" x="218.44,221.21,226.77,228.99" y="1e-005" class="ps01 ps20"> ali</tspan>
+<tspan x="231.22,236.78,242.34" y="1e-005" class="ps01 ps20">gns</tspan>
+<tspan xml:space="preserve" x="247.35,250.12,257.34,262.9" y="1e-005" class="ps01 ps20"> wel</tspan>
+<tspan x="265.13,267.35,270.12,277.34" y="1e-005" class="ps01 ps20">l wi</tspan>
+<tspan xml:space="preserve" x="279.57,282.34,287.9" y="1e-005" class="ps01 ps20">th </tspan>
+<tspan xml:space="preserve" x="290.68,293.45,299.01,304.57" y="1e-005" class="ps01 ps20">the </tspan>
+<tspan x="307.35,312.91,318.47,324.03" y="1e-005" class="ps01 ps20">qual</tspan>
+<tspan x="326.26,328.48,331.25" y="1e-005" class="ps01 ps20">ifi</tspan>
+<tspan x="333.48,338.48,344.04,346.81" y="1e-005" class="ps01 ps20">cati</tspan>
+<tspan xml:space="preserve" x="349.04,354.6,360.16,365.16" y="1e-005" class="ps01 ps20">ons </tspan>
+<tspan x="367.94,372.94,378.5" y="1e-005" class="ps01 ps20">you</tspan>
+<tspan xml:space="preserve" x="384.07,386.84,392.4,395.73" y="1e-005" class="ps01 ps20"> are</tspan>
+<tspan xml:space="preserve" x="401.3,404.07,409.07,414.63" y="1e-005" class="ps01 ps20"> see</tspan>
+<tspan x="420.2,425.2,427.42" y="1e-005" class="ps01 ps20">kin</tspan>
+<tspan x="432.99,438.55,441.32,444.09" y="1e-005" class="ps01 ps20">g; a</tspan>
+<tspan xml:space="preserve" x="449.66,454.66,457.43,462.99" y="1e-005" class="ps01 ps20">s a </tspan>
+<tspan x="465.77,471.33,476.89" y="1e-005" class="ps01 ps20">gen</tspan>
+<tspan x="482.46,488.02,491.35,496.91" y="1e-005" class="ps01 ps20">eral</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp24">
+<path d="M44.998 320 L419 320 L419 341 L44.998 341 Z" />
+</clipPath>
+<g clip-path="url(#clp24)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 334.912)"><tspan x="0,8.33" y="1e-005" class="ps01 ps20">ma</tspan>
+<tspan x="13.9,19.46,25.02" y="1e-005" class="ps01 ps20">nag</tspan>
+<tspan x="30.59,36.15,39.48,42.25" y="1e-005" class="ps01 ps20">er a</tspan>
+<tspan x="47.82,50.59,53.36" y="1e-005" class="ps01 ps20">t F</tspan>
+<tspan xml:space="preserve" x="59.47,65.03,70.59" y="1e-005" class="ps01 ps20">un </tspan>
+<tspan x="73.37,80.59,82.81" y="1e-005" class="ps01 ps20">Clo</tspan>
+<tspan x="88.38,91.15,96.71,102.27" y="1e-005" class="ps01 ps20">thes</tspan>
+<tspan x="107.28,110.05,112.82" y="1e-005" class="ps01 ps20">, I</tspan>
+<tspan xml:space="preserve" x="115.6,118.37,123.93" y="1e-005" class="ps01 ps20"> be</tspan>
+<tspan x="129.5,131.72,133.94,139.5" y="1e-005" class="ps01 ps20">liev</tspan>
+<tspan x="144.51,150.07,152.84" y="1e-005" class="ps01 ps20">e I</tspan>
+<tspan xml:space="preserve" x="155.62,158.39,165.61" y="1e-005" class="ps01 ps20"> wo</tspan>
+<tspan x="171.18,176.74,178.96" y="1e-005" class="ps01 ps20">uld</tspan>
+<tspan xml:space="preserve" x="184.53,187.3,195.63,201.19" y="1e-005" class="ps01 ps20"> mak</tspan>
+<tspan x="206.2,211.76,214.53" y="1e-005" class="ps01 ps20">e a</tspan>
+<tspan xml:space="preserve" x="220.1,222.87,227.87" y="1e-005" class="ps01 ps20"> va</tspan>
+<tspan x="233.44,235.66,241.22" y="1e-005" class="ps01 ps20">lua</tspan>
+<tspan xml:space="preserve" x="246.79,252.35,254.57,260.13" y="1e-005" class="ps01 ps20">ble </tspan>
+<tspan x="262.91,268.47,274.03" y="1e-005" class="ps01 ps20">add</tspan>
+<tspan x="279.6,281.82,284.59" y="1e-005" class="ps01 ps20">iti</tspan>
+<tspan xml:space="preserve" x="286.82,292.38,297.94" y="1e-005" class="ps01 ps20">on </tspan>
+<tspan x="300.72,303.49,309.05,311.82" y="1e-005" class="ps01 ps20">to y</tspan>
+<tspan x="316.83,322.39,327.95" y="1e-005" class="ps01 ps20">our</tspan>
+<tspan xml:space="preserve" x="331.29,334.06,336.83" y="1e-005" class="ps01 ps20"> fa</tspan>
+<tspan x="342.4,350.73,352.95,355.17" y="1e-005" class="ps01 ps20">mily</tspan>
+<tspan x="359.44" y="1e-005" class="ps01 ps20">.</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp25">
+<path d="M44.998 347 L556 347 L556 368 L44.998 368 Z" />
+</clipPath>
+<g clip-path="url(#clp25)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 361.912)"><tspan xml:space="preserve" x="0,8.33,13.33" y="1e-005" class="ps01 ps20">My </tspan>
+<tspan x="16.11,21.67,27.23,32.23,37.23" y="1e-005" class="ps01 ps20">backg</tspan>
+<tspan x="42.8,46.13,51.69,57.25" y="1e-005" class="ps01 ps20">roun</tspan>
+<tspan xml:space="preserve" x="62.82,68.38,71.15,73.37,78.93" y="1e-005" class="ps01 ps20">d in </tspan>
+<tspan x="81.71,84.48,90.04,95.04,100.6" y="1e-005" class="ps01 ps20">fashi</tspan>
+<tspan x="102.83,108.39,113.95,116.72,122.28" y="1e-005" class="ps01 ps20">on an</tspan>
+<tspan x="127.85,133.41,136.18,141.74" y="1e-005" class="ps01 ps20">d bu</tspan>
+<tspan x="147.31,152.31,154.53,160.09,165.65" y="1e-005" class="ps01 ps20">sines</tspan>
+<tspan x="170.66,175.66,178.43,183.99,189.55" y="1e-005" class="ps01 ps20">s has</tspan>
+<tspan xml:space="preserve" x="194.56,197.33,202.89,206.22,211.78" y="1e-005" class="ps01 ps20"> prov</tspan>
+<tspan x="216.79,219.01,224.57,230.13" y="1e-005" class="ps01 ps20">ided</tspan>
+<tspan xml:space="preserve" x="235.7,238.47,246.8,252.36,255.13" y="1e-005" class="ps01 ps20"> me w</tspan>
+<tspan x="262.36,264.58,267.35,272.91,275.68" y="1e-005" class="ps01 ps20">ith c</tspan>
+<tspan x="280.69,286.25,294.58,302.91,308.47" y="1e-005" class="ps01 ps20">ommun</tspan>
+<tspan x="314.04,316.26,321.26,326.82" y="1e-005" class="ps01 ps20">icat</tspan>
+<tspan xml:space="preserve" x="329.6,331.82,337.38,342.94,345.71" y="1e-005" class="ps01 ps20">ion, </tspan>
+<tspan x="348.49,354.05,357.38,362.94,368.5" y="1e-005" class="ps01 ps20">probl</tspan>
+<tspan x="370.73,376.29,384.62,387.95,392.95" y="1e-005" class="ps01 ps20">em-so</tspan>
+<tspan x="398.52,400.74,405.74,407.96" y="1e-005" class="ps01 ps20">lvin</tspan>
+<tspan x="413.53,419.09,421.86,427.42,432.98" y="1e-005" class="ps01 ps20">g and</tspan>
+<tspan xml:space="preserve" x="438.55,441.32,443.54,449.1,451.87" y="1e-005" class="ps01 ps20"> inte</tspan>
+<tspan x="457.44,460.77,466.33,471.89,475.22" y="1e-005" class="ps01 ps20">rpers</tspan>
+<tspan x="480.23,485.79,491.35,496.91" y="1e-005" class="ps01 ps20">onal</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp26">
+<path d="M44.998 366 L285 366 L285 387 L44.998 387 Z" />
+</clipPath>
+<g clip-path="url(#clp26)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 380.912)"><tspan y="1e-005" class="ps01 ps20">t</tspan>
+<tspan x="2.78,8.34,10.56,16.12" y="1e-005" class="ps01 ps20">alen</tspan>
+<tspan x="21.69,24.46,29.46,32.23" y="1e-005" class="ps01 ps20">ts t</tspan>
+<tspan xml:space="preserve" x="35.01,40.57,46.13,48.9" y="1e-005" class="ps01 ps20">hat </tspan>
+<tspan x="51.68,57.24,62.8,67.8" y="1e-005" class="ps01 ps20">have</tspan>
+<tspan xml:space="preserve" x="73.37,76.14,81.14,86.7" y="1e-005" class="ps01 ps20"> sup</tspan>
+<tspan x="92.27,97.83,103.39,106.72" y="1e-005" class="ps01 ps20">port</tspan>
+<tspan x="109.5,115.06,120.62,123.39" y="1e-005" class="ps01 ps20">ed m</tspan>
+<tspan x="131.73,136.73,139.5,145.06" y="1e-005" class="ps01 ps20">y pr</tspan>
+<tspan x="148.4,153.96,156.73,162.29,167.29" y="1e-005" class="ps01 ps20">ofess</tspan>
+<tspan x="172.3,174.52,180.08,185.64" y="1e-005" class="ps01 ps20">iona</tspan>
+<tspan x="191.21,193.43,196.2,201.76" y="1e-005" class="ps01 ps20">l gr</tspan>
+<tspan x="205.1,210.66,217.88,220.65" y="1e-005" class="ps01 ps20">owth</tspan>
+<tspan x="226.22" y="1e-005" class="ps01 ps20">.</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp27">
+<path d="M44.998 390 L567 390 L567 411 L44.998 411 Z" />
+</clipPath>
+<g clip-path="url(#clp27)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 404.412)"><tspan y="1e-005" class="ps01 ps20">I</tspan>
+<tspan xml:space="preserve" x="2.78,5.55,8.32,13.88" y="1e-005" class="ps01 ps20"> thr</tspan>
+<tspan xml:space="preserve" x="17.22,19.44,24.44,30" y="1e-005" class="ps01 ps20">ive </tspan>
+<tspan x="32.78,35,40.56,43.33" y="1e-005" class="ps01 ps20">in h</tspan>
+<tspan x="48.9,51.12,56.68,62.24,65.57" y="1e-005" class="ps01 ps20">igh-p</tspan>
+<tspan x="71.14,74.47,80.03,85.03" y="1e-005" class="ps01 ps20">ress</tspan>
+<tspan xml:space="preserve" x="90.04,95.6,98.93,104.49" y="1e-005" class="ps01 ps20">ure </tspan>
+<tspan xml:space="preserve" x="107.27,112.83,118.39,123.95" y="1e-005" class="ps01 ps20">and </tspan>
+<tspan x="126.73,129.5,135.06,140.06" y="1e-005" class="ps01 ps20">fast</tspan>
+<tspan x="142.84,146.17,151.73,157.29,162.29" y="1e-005" class="ps01 ps20">-pace</tspan>
+<tspan x="167.86,173.42,176.19,181.19" y="1e-005" class="ps01 ps20">d si</tspan>
+<tspan x="183.42,186.19,191.75,197.31" y="1e-005" class="ps01 ps20">tuat</tspan>
+<tspan x="200.09,202.31,207.87,213.43" y="1e-005" class="ps01 ps20">ions</tspan>
+<tspan x="218.44,221.21,223.98,228.98" y="1e-005" class="ps01 ps20">, st</tspan>
+<tspan x="231.76,235.09,237.31,242.31,244.53" y="1e-005" class="ps01 ps20">rivin</tspan>
+<tspan x="250.1,255.66,258.43,261.2" y="1e-005" class="ps01 ps20">g fo</tspan>
+<tspan x="266.77,270.1,272.87,278.43" y="1e-005" class="ps01 ps20">r po</tspan>
+<tspan x="284,289,291.22,293.99" y="1e-005" class="ps01 ps20">siti</tspan>
+<tspan x="296.22,301.22,306.78,309.55" y="1e-005" class="ps01 ps20">ve r</tspan>
+<tspan x="312.89,318.45,323.45,329.01" y="1e-005" class="ps01 ps20">esul</tspan>
+<tspan x="331.24,334.01,339.01,341.78,347.34" y="1e-005" class="ps01 ps20">ts by</tspan>
+<tspan xml:space="preserve" x="352.35,355.12,360.68,366.24" y="1e-005" class="ps01 ps20"> app</tspan>
+<tspan x="371.81,374.03,379.03,381.25" y="1e-005" class="ps01 ps20">lyin</tspan>
+<tspan x="386.82,392.38,395.15,403.48" y="1e-005" class="ps01 ps20">g my</tspan>
+<tspan xml:space="preserve" x="408.49,411.26,416.82,422.38" y="1e-005" class="ps01 ps20"> bus</tspan>
+<tspan x="427.39,429.61,435.17,440.73,445.73" y="1e-005" class="ps01 ps20">iness</tspan>
+<tspan xml:space="preserve" x="450.74,453.51,459.07,461.29" y="1e-005" class="ps01 ps20"> pla</tspan>
+<tspan x="466.86,472.42,477.98,480.2" y="1e-005" class="ps01 ps20">nnin</tspan>
+<tspan x="485.77,491.33,494.1,499.66" y="1e-005" class="ps01 ps20">g an</tspan>
+<tspan x="505.23" y="1e-005" class="ps01 ps20">d</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp28">
+<path d="M44.998 409 L550 409 L550 430 L44.998 430 Z" />
+</clipPath>
+<g clip-path="url(#clp28)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 423.412)"><tspan x="0,5.56" y="1e-005" class="ps01 ps20">an</tspan>
+<tspan x="11.13,16.69,18.91" y="1e-005" class="ps01 ps20">aly</tspan>
+<tspan x="23.92,28.92,31.14" y="1e-005" class="ps01 ps20">sis</tspan>
+<tspan xml:space="preserve" x="36.15,38.92,44.48" y="1e-005" class="ps01 ps20"> ab</tspan>
+<tspan x="50.05,52.27,54.49" y="1e-005" class="ps01 ps20">ili</tspan>
+<tspan x="56.72,59.49,61.71" y="1e-005" class="ps01 ps20">tie</tspan>
+<tspan xml:space="preserve" x="67.28,72.28,75.05" y="1e-005" class="ps01 ps20">s. </tspan>
+<tspan x="77.83,83.93,89.49" y="1e-005" class="ps01 ps20">Fur</tspan>
+<tspan x="92.83,95.6,101.16" y="1e-005" class="ps01 ps20">the</tspan>
+<tspan x="106.73" y="1e-005" class="ps01 ps20">r</tspan>
+<tspan x="109.5" y="1e-005" class="ps01 ps20">,</tspan>
+<tspan xml:space="preserve" x="112.28,115.05,117.82,120.59,126.15,131.71" y="1e-005" class="ps01 ps20"> I pos</tspan>
+<tspan x="136.72,141.72,147.28,152.28,157.28,160.05" y="1e-005" class="ps01 ps20">sess e</tspan>
+<tspan x="165.62,170.62,176.18,181.74,185.07,187.84" y="1e-005" class="ps01 ps20">xperti</tspan>
+<tspan x="190.07,195.07,200.63,203.4,205.62,211.18,213.95" y="1e-005" class="ps01 ps20">se in p</tspan>
+<tspan x="219.52,222.85,228.41,233.41,238.97,243.97" y="1e-005" class="ps01 ps20">rocess</tspan>
+<tspan xml:space="preserve" x="248.98,251.75,253.97,262.3,267.86,271.19" y="1e-005" class="ps01 ps20"> impro</tspan>
+<tspan x="276.76,281.76,287.32,295.65,301.21,306.77" y="1e-005" class="ps01 ps20">vement</tspan>
+<tspan xml:space="preserve" x="309.55,312.32,317.88,323.44,329,331.77" y="1e-005" class="ps01 ps20"> and a</tspan>
+<tspan xml:space="preserve" x="337.34,342.34,347.9,356.23,361.79,367.35" y="1e-005" class="ps01 ps20">cumen </tspan>
+<tspan x="370.13,372.9,378.46,381.79,384.56,392.89,398.45" y="1e-005" class="ps01 ps20">for max</tspan>
+<tspan x="403.46,405.68,414.01,416.23,421.23,423.45" y="1e-005" class="ps01 ps20">imizin</tspan>
+<tspan x="429.02,434.58,437.35,442.91,448.47,451.8" y="1e-005" class="ps01 ps20">g perf</tspan>
+<tspan x="454.58,460.14,463.47,471.8,477.36,482.92" y="1e-005" class="ps01 ps20">ormanc</tspan>
+<tspan x="487.93" y="1e-005" class="ps01 ps20">e</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp29">
+<path d="M44.998 428 L568 428 L568 449 L44.998 449 Z" />
+</clipPath>
+<g clip-path="url(#clp29)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 442.412)"><tspan x="0,5.56,11.12" y="1e-005" class="ps01 ps20">and</tspan>
+<tspan xml:space="preserve" x="16.69,19.46,21.68,27.24,32.24,37.8,40.02,43.35" y="1e-005" class="ps01 ps20"> inspiri</tspan>
+<tspan x="45.58,51.14,56.7,59.47,64.47,70.03,72.25" y="1e-005" class="ps01 ps20">ng coll</tspan>
+<tspan x="74.48,80.04,85.6,91.16,96.72,102.28,107.28" y="1e-005" class="ps01 ps20">eagues.</tspan>
+<tspan xml:space="preserve" x="110.06,112.83,115.6,118.37,123.37,128.93,134.49" y="1e-005" class="ps01 ps20"> I can </tspan>
+<tspan x="137.27,142.27,144.49,149.49,155.05,160.61,162.83" y="1e-005" class="ps01 ps20">visuali</tspan>
+<tspan x="165.06,170.06,175.62,178.39,183.39,188.95,193.95" y="1e-005" class="ps01 ps20">ze succ</tspan>
+<tspan x="198.96,204.52,209.52,214.52,217.29,222.85,228.41" y="1e-005" class="ps01 ps20">ess and</tspan>
+<tspan xml:space="preserve" x="233.98,236.75,238.97,244.53,250.09,255.65,258.42" y="1e-005" class="ps01 ps20"> identi</tspan>
+<tspan x="260.65,263.42,268.42,271.19,276.75,282.31,287.31" y="1e-005" class="ps01 ps20">fy unco</tspan>
+<tspan x="292.88,298.44,303.44,309,314.56,317.33,319.55" y="1e-005" class="ps01 ps20">nventio</tspan>
+<tspan x="325.12,330.68,336.24,338.46,341.23,344,349.56" y="1e-005" class="ps01 ps20">nal, bo</tspan>
+<tspan x="355.13,357.35,362.91,365.68,368.45,373.45,379.01" y="1e-005" class="ps01 ps20">ld, yet</tspan>
+<tspan xml:space="preserve" x="381.79,384.56,390.12,392.34,397.9,403.46,405.68" y="1e-005" class="ps01 ps20"> highly</tspan>
+<tspan xml:space="preserve" x="410.69,413.46,419.02,421.79,424.56,430.12,435.12" y="1e-005" class="ps01 ps20"> effect</tspan>
+<tspan x="437.9,440.12,445.12,450.68,453.45,458.45,461.22" y="1e-005" class="ps01 ps20">ive str</tspan>
+<tspan x="464.56,470.12,472.89,478.45,484.01,486.23,491.79" y="1e-005" class="ps01 ps20">ategies</tspan>
+<tspan xml:space="preserve" x="496.8,499.57,502.34,507.9" y="1e-005" class="ps01 ps20"> for</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp30">
+<path d="M44.998 447 L109 447 L109 468 L44.998 468 Z" />
+</clipPath>
+<g clip-path="url(#clp30)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 461.412)"><tspan x="0,5.56" y="1e-005" class="ps01 ps20">ac</tspan>
+<tspan x="10.57,16.13,18.35" y="1e-005" class="ps01 ps20">hie</tspan>
+<tspan x="23.92,28.92,31.14" y="1e-005" class="ps01 ps20">vin</tspan>
+<tspan x="36.71,42.27,45.04" y="1e-005" class="ps01 ps20">g i</tspan>
+<tspan x="47.27,50.04" y="1e-005" class="ps01 ps20">t.</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp31">
+<path d="M44.998 470 L213 470 L213 491 L44.998 491 Z" />
+</clipPath>
+<g clip-path="url(#clp31)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 484.912)"><tspan x="0,7.22" y="1e-005" class="ps01 ps20">Hi</tspan>
+<tspan x="9.45,15.01,20.57" y="1e-005" class="ps01 ps20">ghl</tspan>
+<tspan x="22.8,25.02,30.58,36.14" y="1e-005" class="ps01 ps20">ight</tspan>
+<tspan x="38.92,43.92,46.69" y="1e-005" class="ps01 ps20">s o</tspan>
+<tspan x="52.26,55.03,57.8" y="1e-005" class="ps01 ps20">f a</tspan>
+<tspan x="63.37,68.37,73.93,76.15" y="1e-005" class="ps01 ps20">chie</tspan>
+<tspan x="81.72,86.72,92.28" y="1e-005" class="ps01 ps20">vem</tspan>
+<tspan x="100.62,106.18,111.74,114.51" y="1e-005" class="ps01 ps20">ents</tspan>
+<tspan xml:space="preserve" x="119.52,122.29,124.51" y="1e-005" class="ps01 ps20"> in</tspan>
+<tspan x="130.08,135.08,137.3" y="1e-005" class="ps01 ps20">clu</tspan>
+<tspan x="142.87,148.43,153.99" y="1e-005" class="ps01 ps20">de:</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp32">
+<path d="M61 489 L544 489 L544 510 L61 510 Z" />
+</clipPath>
+<g clip-path="url(#clp32)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 66 503.912)"><tspan y="1e-005" class="ps01 ps20">I</tspan>
+<tspan x="2.78,8.34,13.34,16.67,22.23,27.79" y="1e-005" class="ps01 ps20">ncreas</tspan>
+<tspan x="32.8,38.36,43.92,46.69,51.69" y="1e-005" class="ps01 ps20">ed sa</tspan>
+<tspan x="57.26,59.48,65.04,70.04,72.81,76.14" y="1e-005" class="ps01 ps20">les re</tspan>
+<tspan x="81.71,86.71,92.27,97.83,103.39" y="1e-005" class="ps01 ps20">venue</tspan>
+<tspan x="108.96,113.96,116.73,122.29,127.29,130.06" y="1e-005" class="ps01 ps20">s by 3</tspan>
+<tspan x="135.63,141.19,150.08,152.85,158.41" y="1e-005" class="ps01 ps20">5% ov</tspan>
+<tspan x="163.42,168.98,172.31,175.08,177.85,183.41" y="1e-005" class="ps01 ps20">er thr</tspan>
+<tspan x="186.75,192.31,197.87,200.64,208.97" y="1e-005" class="ps01 ps20">ee mo</tspan>
+<tspan x="214.54,220.1,222.87,228.43,233.43,236.2" y="1e-005" class="ps01 ps20">nths b</tspan>
+<tspan x="241.77,246.77,249.54,255.1,258.43" y="1e-005" class="ps01 ps20">y pro</tspan>
+<tspan x="264,272.33,277.89,280.66,282.88,288.44" y="1e-005" class="ps01 ps20">moting</tspan>
+<tspan xml:space="preserve" x="294.01,296.78,301.78,307.34,315.67,321.23" y="1e-005" class="ps01 ps20"> compl</tspan>
+<tspan x="323.46,329.02,337.35,342.91,348.47" y="1e-005" class="ps01 ps20">ement</tspan>
+<tspan x="351.25,356.81,360.14,365.14,367.91,373.47" y="1e-005" class="ps01 ps20">ary pr</tspan>
+<tspan x="376.81,382.37,387.93,393.49,398.49" y="1e-005" class="ps01 ps20">oduct</tspan>
+<tspan xml:space="preserve" x="401.27,406.27,409.04,414.6,420.16,425.72" y="1e-005" class="ps01 ps20">s and </tspan>
+<tspan x="428.5,434.06,439.62,445.18,450.18" y="1e-005" class="ps01 ps20">educa</tspan>
+<tspan x="455.75,458.52,460.74,466.3" y="1e-005" class="ps01 ps20">ting</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp33">
+<path d="M61 508 L226 508 L226 529 L61 529 Z" />
+</clipPath>
+<g clip-path="url(#clp33)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 66 522.912)"><tspan x="0,5,10.56" y="-2e-005" class="ps01 ps20">cus</tspan>
+<tspan x="15.57,18.34,23.9,32.23,37.79,41.12" y="-2e-005" class="ps01 ps20">tomers</tspan>
+<tspan xml:space="preserve" x="46.13,48.9,54.46,60.02,65.58,71.14" y="-2e-005" class="ps01 ps20"> about</tspan>
+<tspan xml:space="preserve" x="73.92,76.69,81.69,84.46,90.02,93.35" y="-2e-005" class="ps01 ps20"> store</tspan>
+<tspan xml:space="preserve" x="98.92,101.69,107.25,110.58,116.14,124.47" y="-2e-005" class="ps01 ps20"> promo</tspan>
+<tspan x="130.04,132.81,135.03,140.59,146.15,151.15" y="-2e-005" class="ps01 ps20">tions.</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<path d="M58.997 498.66 L58.997 498.66 C60.104 498.66 61 499.56 61 500.66 C61 501.77 60.104 502.66 58.997 502.66 C57.896 502.66 57 501.77 57 500.66 C57 499.56 57.896 498.66 58.997 498.66 Z" class="ps02" />
+</g>
+<g class="ps00">
+<clipPath id="clp34">
+<path d="M61 527 L549 527 L549 548 L61 548 Z" />
+</clipPath>
+<g clip-path="url(#clp34)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 66 541.912)"><tspan x="0,8.33,13.89,19.45,22.22,27.78,31.11,36.67,42.23,45" y="-2e-005" class="ps01 ps20">Mentored a</tspan>
+<tspan xml:space="preserve" x="50.57,53.34,58.9,64.46,67.79,76.12,81.68,90.01,95.57,101.13,104.46,107.23,112.23,117.79,120.01,125.57,130.57,133.34,136.11" y="-2e-005" class="ps01 ps20"> 15-member sales te</tspan>
+<tspan x="141.68,147.24,155.57,158.34,160.56,166.12,168.89,174.45,180.01,185.57,187.79,192.79,195.01,200.57,206.13,208.9,214.46,217.23" y="-2e-005" class="ps01 ps20">am in applying eff</tspan>
+<tspan x="220.01,225.57,230.57,233.34,235.56,240.56,246.12,248.89,253.89,259.45,261.67,267.23,272.23,275,277.77,283.33,288.33,293.89,299.45" y="-2e-005" class="ps01 ps20">ective sales techni</tspan>
+<tspan x="301.68,307.24,312.8,318.36,323.36,326.13,331.69,337.25,342.81,345.58,351.14,356.7,358.92,361.14,366.14,371.7,375.03,377.25,382.81" y="-2e-005" class="ps01 ps20">ques and delivering</tspan>
+<tspan xml:space="preserve" x="388.38,391.15,393.92,399.48,405.04,408.37,413.93,419.49,422.26,427.26,432.82,435.59,440.59,446.15,451.15,453.92,459.48,467.81" y="-2e-005" class="ps01 ps20"> top-notch custome</tspan>
+<tspan x="473.38" y="-2e-005" class="ps01 ps20">r</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp35">
+<path d="M61 546 L107 546 L107 567 L61 567 Z" />
+</clipPath>
+<g clip-path="url(#clp35)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 66 560.912)"><tspan x="0,5,10.56,13.89" y="-2e-005" class="ps01 ps20">serv</tspan>
+<tspan x="18.9,21.12,26.12,31.68" y="-2e-005" class="ps01 ps20">ice.</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<path d="M58.997 536.66 L58.997 536.66 C60.104 536.66 61 537.56 61 538.66 C61 539.77 60.104 540.66 58.997 540.66 C57.896 540.66 57 539.77 57 538.66 C57 537.56 57.896 536.66 58.997 536.66 Z" class="ps02" />
+</g>
+<g class="ps00">
+<clipPath id="clp36">
+<path d="M61 565 L556 565 L556 586 L61 586 Z" />
+</clipPath>
+<g clip-path="url(#clp36)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 66 579.912)"><tspan x="0,7.22" y="-2e-005" class="ps01 ps20">Re</tspan>
+<tspan x="12.79,18.35,23.91,28.91,34.47" y="-2e-005" class="ps01 ps20">duced</tspan>
+<tspan xml:space="preserve" x="40.04,42.81,45.58,47.8" y="-2e-005" class="ps01 ps20"> fin</tspan>
+<tspan x="53.37,58.93,64.49,69.49" y="-2e-005" class="ps01 ps20">anci</tspan>
+<tspan x="71.72,77.28,79.5,82.27,87.83" y="-2e-005" class="ps01 ps20">al di</tspan>
+<tspan x="90.06,95.06,100.06,103.39" y="-2e-005" class="ps01 ps20">scre</tspan>
+<tspan x="108.96,114.52,120.08,125.64,130.64" y="-2e-005" class="ps01 ps20">panci</tspan>
+<tspan x="132.87,138.43,143.43,146.2" y="-2e-005" class="ps01 ps20">es b</tspan>
+<tspan x="151.77,156.77,159.54,165.1" y="-2e-005" class="ps01 ps20">y 40</tspan>
+<tspan xml:space="preserve" x="170.67,179.56,182.33,187.89,192.89" y="-2e-005" class="ps01 ps20">% by </tspan>
+<tspan x="195.67,204,209.56,215.12" y="-2e-005" class="ps01 ps20">moni</tspan>
+<tspan x="217.35,220.12,225.68,229.01" y="-2e-005" class="ps01 ps20">tori</tspan>
+<tspan x="231.24,236.8,242.36,245.13,253.46" y="-2e-005" class="ps01 ps20">ng mo</tspan>
+<tspan x="259.03,264.59,270.15,272.92" y="-2e-005" class="ps01 ps20">neta</tspan>
+<tspan x="278.49,281.82,286.82,289.59,292.36" y="-2e-005" class="ps01 ps20">ry tr</tspan>
+<tspan x="295.7,301.26,306.82,311.82" y="-2e-005" class="ps01 ps20">ansa</tspan>
+<tspan x="317.39,322.39,325.16,327.38" y="-2e-005" class="ps01 ps20">ctio</tspan>
+<tspan x="332.95,338.51,343.51,346.28,349.05" y="-2e-005" class="ps01 ps20">ns, i</tspan>
+<tspan x="351.28,356.84,361.84,364.06" y="-2e-005" class="ps01 ps20">nclu</tspan>
+<tspan x="369.63,375.19,377.41,382.97" y="-2e-005" class="ps01 ps20">ding</tspan>
+<tspan xml:space="preserve" x="388.54,391.31,396.31,399.64,405.2" y="-2e-005" class="ps01 ps20"> cred</tspan>
+<tspan x="410.77,412.99,415.76,418.53" y="-2e-005" class="ps01 ps20">it c</tspan>
+<tspan x="423.54,429.1,432.43,437.99,440.76" y="-2e-005" class="ps01 ps20">ard s</tspan>
+<tspan x="445.77,451.33,453.55,459.11" y="-2e-005" class="ps01 ps20">ales</tspan>
+<tspan xml:space="preserve" x="464.12,466.89,472.45,478.01" y="-2e-005" class="ps01 ps20"> and</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp37">
+<path d="M61 584 L113 584 L113 605 L61 605 Z" />
+</clipPath>
+<g clip-path="url(#clp37)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 66 598.912)"><tspan x="0,5.56" y="-2e-005" class="ps01 ps20">de</tspan>
+<tspan x="11.13,16.69,22.25" y="-2e-005" class="ps01 ps20">pos</tspan>
+<tspan x="27.26,29.48,32.25,37.25" y="-2e-005" class="ps01 ps20">its.</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<path d="M58.997 574.66 L58.997 574.66 C60.104 574.66 61 575.56 61 576.66 C61 577.77 60.104 578.66 58.997 578.66 C57.896 578.66 57 577.77 57 576.66 C57 575.56 57.896 574.66 58.997 574.66 Z" class="ps02" />
+</g>
+<g class="ps00">
+<clipPath id="clp38">
+<path d="M61 603 L412 603 L412 624 L61 624 Z" />
+</clipPath>
+<g clip-path="url(#clp38)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 66 617.912)"><tspan y="-2e-005" class="ps01 ps20">S</tspan>
+<tspan x="6.67,12.23,17.79,23.35" y="-2e-005" class="ps01 ps20">uper</tspan>
+<tspan x="26.69,31.69,33.91,38.91" y="-2e-005" class="ps01 ps20">vise</tspan>
+<tspan x="44.48,50.04,52.81,58.37,61.14" y="-2e-005" class="ps01 ps20">d a t</tspan>
+<tspan xml:space="preserve" x="63.92,69.48,75.04,83.37" y="-2e-005" class="ps01 ps20">eam </tspan>
+<tspan x="86.15,91.71,94.48,97.25,102.81" y="-2e-005" class="ps01 ps20">of 15</tspan>
+<tspan xml:space="preserve" x="108.38,111.15,116.71,125.04" y="-2e-005" class="ps01 ps20"> emp</tspan>
+<tspan x="130.61,132.83,138.39,143.39,148.95" y="-2e-005" class="ps01 ps20">loyee</tspan>
+<tspan x="154.52,159.52,162.29,167.85" y="-2e-005" class="ps01 ps20">s an</tspan>
+<tspan x="173.42,178.98,181.75,187.31,190.64" y="-2e-005" class="ps01 ps20">d pro</tspan>
+<tspan x="196.21,201.21,203.43,208.99" y="-2e-005" class="ps01 ps20">vide</tspan>
+<tspan x="214.56,220.12,222.89,225.66,231.22" y="-2e-005" class="ps01 ps20">d fee</tspan>
+<tspan x="236.79,242.35,247.91,253.47" y="-2e-005" class="ps01 ps20">dbac</tspan>
+<tspan xml:space="preserve" x="258.48,263.48,266.25,271.81,277.37" y="-2e-005" class="ps01 ps20">k on </tspan>
+<tspan x="280.15,285.71,291.27,294.6" y="-2e-005" class="ps01 ps20">perf</tspan>
+<tspan x="297.38,302.94,306.27,314.6,320.16" y="-2e-005" class="ps01 ps20">orman</tspan>
+<tspan x="325.73,330.73,336.29" y="-2e-005" class="ps01 ps20">ce.</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<path d="M58.997 612.66 L58.997 612.66 C60.104 612.66 61 613.56 61 614.66 C61 615.77 60.104 616.66 58.997 616.66 C57.896 616.66 57 615.77 57 614.66 C57 613.56 57.896 612.66 58.997 612.66 Z" class="ps02" />
+</g>
+<g class="ps00">
+<clipPath id="clp39">
+<path d="M44.998 630 L536 630 L536 651 L44.998 651 Z" />
+</clipPath>
+<g clip-path="url(#clp39)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 644.912)"><tspan y="-2e-005" class="ps01 ps20">E</tspan>
+<tspan x="6.67,12.23,17.23,19.45" y="-2e-005" class="ps01 ps20">nclo</tspan>
+<tspan xml:space="preserve" x="25.02,30.02,35.58,41.14,43.91" y="-2e-005" class="ps01 ps20">sed, </tspan>
+<tspan x="46.69,52.25,54.47,60.03,65.59" y="-2e-005" class="ps01 ps20">pleas</tspan>
+<tspan x="70.6,76.16,78.93,81.7,83.92" y="-2e-005" class="ps01 ps20">e fin</tspan>
+<tspan xml:space="preserve" x="89.49,95.05,97.82,106.15,111.15" y="-2e-005" class="ps01 ps20">d my </tspan>
+<tspan x="113.93,117.26,122.82,127.82" y="-2e-005" class="ps01 ps20">resu</tspan>
+<tspan x="133.39,141.72,147.28,150.05,152.82" y="-2e-005" class="ps01 ps20">me fo</tspan>
+<tspan x="158.39,161.72,164.49,169.49,175.05" y="-2e-005" class="ps01 ps20">r you</tspan>
+<tspan x="180.62,183.95,186.72,190.05,195.61" y="-2e-005" class="ps01 ps20">r rev</tspan>
+<tspan x="200.62,202.84,208.4" y="-2e-005" class="ps01 ps20">iew</tspan>
+<tspan x="215.08,217.85,220.62" y="-2e-005" class="ps01 ps20">. I</tspan>
+<tspan x="223.4,228.96,231.73,236.73" y="-2e-005" class="ps01 ps20">n cl</tspan>
+<tspan x="238.96,244.52,249.52,251.74" y="-2e-005" class="ps01 ps20">osin</tspan>
+<tspan x="257.31,262.87,265.64,268.41" y="-2e-005" class="ps01 ps20">g, t</tspan>
+<tspan x="271.19,276.75,282.31,287.87" y="-2e-005" class="ps01 ps20">hank</tspan>
+<tspan xml:space="preserve" x="292.88,295.65,300.65,306.21" y="-2e-005" class="ps01 ps20"> you</tspan>
+<tspan xml:space="preserve" x="311.78,314.55,317.32,322.88" y="-2e-005" class="ps01 ps20"> for</tspan>
+<tspan xml:space="preserve" x="326.22,328.99,333.99,339.55" y="-2e-005" class="ps01 ps20"> you</tspan>
+<tspan x="345.12,348.45,351.22,353.99" y="-2e-005" class="ps01 ps20">r ti</tspan>
+<tspan x="356.22,364.55,370.11,372.88" y="-2e-005" class="ps01 ps20">me a</tspan>
+<tspan x="378.45,384.01,389.57,392.34" y="-2e-005" class="ps01 ps20">nd c</tspan>
+<tspan x="397.35,402.91,408.47,413.47" y="-2e-005" class="ps01 ps20">onsi</tspan>
+<tspan x="415.7,421.26,426.82,430.15" y="-2e-005" class="ps01 ps20">dera</tspan>
+<tspan x="435.72,438.49,440.71,446.27" y="-2e-005" class="ps01 ps20">tion</tspan>
+<tspan xml:space="preserve" x="451.84,454.61,460.17,462.94" y="-2e-005" class="ps01 ps20"> of </tspan>
+<tspan x="465.72,474.05" y="-2e-005" class="ps01 ps20">my</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp40">
+<path d="M44.998 649 L104 649 L104 670 L44.998 670 Z" />
+</clipPath>
+<g clip-path="url(#clp40)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 663.912)"><tspan x="0,5,10.56" y="-2e-005" class="ps01 ps20">can</tspan>
+<tspan x="16.13,21.69,23.91,29.47" y="-2e-005" class="ps01 ps20">dida</tspan>
+<tspan x="35.04,40.04" y="-2e-005" class="ps01 ps20">cy</tspan>
+<tspan x="44.3" y="-2e-005" class="ps01 ps20">.</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp41">
+<path d="M44.998 676 L100 676 L100 697 L44.998 697 Z" />
+</clipPath>
+<g clip-path="url(#clp41)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 690.912)"><tspan y="-2e-005" class="ps01 ps20">S</tspan>
+<tspan x="6.67,8.89,14.45" y="-2e-005" class="ps01 ps20">inc</tspan>
+<tspan x="19.46,25.02,28.35,33.91" y="-2e-005" class="ps01 ps20">erel</tspan>
+<tspan x="36.14" y="-2e-005" class="ps01 ps20">y</tspan>
+<tspan x="40.4" y="-2e-005" class="ps01 ps20">,</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp42">
+<path d="M44.998 695 L108 695 L108 716 L44.998 716 Z" />
+</clipPath>
+<g clip-path="url(#clp42)">
+<g class="ps00">
+<g>
+<text transform="matrix(1 0 0 1 50 709.912)"><tspan y="-2e-005" class="ps01 ps20">E</tspan>
+<tspan x="6.67,8.89" y="-2e-005" class="ps01 ps20">li</tspan>
+<tspan xml:space="preserve" x="11.12,16.12,21.68" y="-2e-005" class="ps01 ps20">za </tspan>
+<tspan x="24.46,29.46,35.02" y="-2e-005" class="ps01 ps20">Jon</tspan>
+<tspan x="40.59,46.15" y="-2e-005" class="ps01 ps20">es</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g>
+<clipPath id="clp43">
+<path d="M50 0 L105 0 L105 51.001 L50 51.001 Z" />
+</clipPath>
+<g clip-path="url(#clp43)">
+<g class="ps00">
+<path d="M50 0 L105 0 L105 51.001 L50 51.001 Z" class="ps03" />
+</g>
+</g>
+</g>
+<g>
+<clipPath id="clp44">
+<path d="M0 0 L616.11 0 L616.11 731.55 L0 731.55 Z" />
+</clipPath>
+<g clip-path="url(#clp44)">
+<g class="ps00">
+<clipPath id="clp45">
+<path d="M120 1.001 L207 1.001 L207 40.001 L120 40.001 Z" />
+</clipPath>
+<g clip-path="url(#clp45)">
+<g class="ps00">
+<text transform="matrix(1 0 0 1 125 29.5)"><tspan class="ps04 ps21">E</tspan>
+<tspan x="17.342" class="ps04 ps21">L</tspan>
+<tspan x="33.228" class="ps04 ps21">I</tspan>
+<tspan x="40.456" class="ps04 ps21">Z</tspan>
+<tspan x="56.342" class="ps04 ps21">A</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp46">
+<path d="M202 1.001 L302 1.001 L302 40.001 L202 40.001 Z" />
+</clipPath>
+<g clip-path="url(#clp46)">
+<g class="ps00">
+<text transform="matrix(1 0 0 1 207.337 29.5)"><tspan class="ps04 ps21">J</tspan>
+<tspan x="14.482,34.684" class="ps04 ps21">ON</tspan>
+<tspan x="53.482" class="ps04 ps21">E</tspan>
+<tspan x="70.824" class="ps04 ps21">S</tspan>
+</text>
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp47">
+<path d="M125 48.002 L157 48.002 L157 49.004 L125 49.004 Z" />
+</clipPath>
+<g clip-path="url(#clp47)">
+<g class="ps00">
+<path d="M125 48.002 L157 48.002 L157 49.004 L125 49.004 Z" class="ps05" />
+</g>
+</g>
+</g>
+<g class="ps00">
+<clipPath id="clp48">
+<path d="M48.002 72.001 L68 72.001 L68 91.999 L48.002 91.999 Z" />
+</clipPath>
+<g clip-path="url(#clp48)">
+<g class="ps00">
+<text transform="matrix(1 0 0 1 53.112 85.412)"><tspan class="ps01 ps22">@</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g>
+<clipPath id="clp49">
+<path d="M50 74.911 L65.001 74.911 L65.001 89.912 L50 89.912 Z" />
+</clipPath>
+<g clip-path="url(#clp49)">
+<g class="ps00">
+<clipPath id="clp50">
+<path d="M57.498 74.911 L57.498 74.911 C61.64 74.911 65.001 78.272 65.001 82.414 C65.001 86.551 61.64 89.912 57.498 89.912 C53.361 89.912 50 86.551 50 82.414 C50 78.272 53.361 74.911 57.498 74.911 Z" />
+</clipPath>
+<g clip-path="url(#clp50)">
+<g class="ps00">
+<path d="M50 74.911 L65.001 74.911 L65.001 89.912 L50 89.912 Z" class="ps06" />
+</g>
+</g>
+</g>
+</g>
+</g>
+<g>
+<clipPath id="clp51">
+<path d="M0 0 L616.11 0 L616.11 731.55 L0 731.55 Z" />
+</clipPath>
+<g clip-path="url(#clp51)">
+<g class="ps00">
+<clipPath id="clp52">
+<path d="M189 72.001 L207 72.001 L207 91.999 L189 91.999 Z" />
+</clipPath>
+<g clip-path="url(#clp52)">
+<g class="ps00">
+<text transform="matrix(1 0 0 1 194.937 85.412)"><tspan class="ps01 ps22">p</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g>
+<clipPath id="clp53">
+<path d="M190.19 74.911 L205.19 74.911 L205.19 89.912 L190.19 89.912 Z" />
+</clipPath>
+<g clip-path="url(#clp53)">
+<g class="ps00">
+<clipPath id="clp54">
+<path d="M197.69 74.911 L197.69 74.911 C201.82 74.911 205.19 78.272 205.19 82.414 C205.19 86.551 201.82 89.912 197.69 89.912 C193.55 89.912 190.19 86.551 190.19 82.414 C190.19 78.272 193.55 74.911 197.69 74.911 Z" />
+</clipPath>
+<g clip-path="url(#clp54)">
+<g class="ps00">
+<path d="M190.19 74.911 L205.19 74.911 L205.19 89.912 L190.19 89.912 Z" class="ps06" />
+</g>
+</g>
+</g>
+</g>
+</g>
+<g>
+<clipPath id="clp55">
+<path d="M0 0 L616.11 0 L616.11 731.55 L0 731.55 Z" />
+</clipPath>
+<g clip-path="url(#clp55)">
+<g class="ps00">
+<clipPath id="clp56">
+<path d="M296 72.001 L313 72.001 L313 91.999 L296 91.999 Z" />
+</clipPath>
+<g clip-path="url(#clp56)">
+<g class="ps00">
+<text transform="matrix(1 0 0 1 301.887 85.412)"><tspan class="ps01 ps22">a</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g>
+<clipPath id="clp57">
+<path d="M296.89 74.911 L311.89 74.911 L311.89 89.912 L296.89 89.912 Z" />
+</clipPath>
+<g clip-path="url(#clp57)">
+<g class="ps00">
+<clipPath id="clp58">
+<path d="M304.39 74.911 L304.39 74.911 C308.53 74.911 311.89 78.272 311.89 82.414 C311.89 86.551 308.53 89.912 304.39 89.912 C300.25 89.912 296.89 86.551 296.89 82.414 C296.89 78.272 300.25 74.911 304.39 74.911 Z" />
+</clipPath>
+<g clip-path="url(#clp58)">
+<g class="ps00">
+<path d="M296.89 74.911 L311.89 74.911 L311.89 89.912 L296.89 89.912 Z" class="ps06" />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

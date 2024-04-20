@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Perfect Resume</title>
+    <style>
+        /* Reset CSS */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+        }    
+        
+
+        header {
+
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            
+        }
+
+        header a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+            
+        }
+
+        /* Main Sections */
+        section {
+            padding: 50px 20px;
+            text-align: center;
+        }
+
+        /* Large Headings */
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+
+        /* Sub Headings */
+        h2 {
+            font-size: 1.5em;
+            margin-bottom: 15px;
+        }
+
+        /* Paragraphs */
+        p {
+            font-size: 1em;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+
+        /* Buttons */
+        .btn {
+            display: inline-block;
+            padding: 12px 24px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn:hover {
+            background-color: #0056b3; 
+        }
+
+        /* Flex Container */
+        .flex-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 30px;
+        }
+
+        /* Flex Box */
+        .flex-box {
+            flex: 0 0 30%;
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: left;
+        }
+
+        /* Images */
+        .flex-box img {
+            max-width: 90%;
+            height: auto;
+            margin-bottom: 15px;
+        }
+        .circular-image {
+            border-radius: 10%; /* This creates a circular shape */
+        }
+
+        /* Links */
+        .custom-link {
+            color: #0b6e77;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        .custom-link:hover {
+            text-decoration: underline;
+        }
+
+
+
+
+
+
+
+
+        .testimonial-slider {
+            width: 950px; /* Adjust width as needed */
+            overflow: hidden;
+            position: relative;
+            margin: 0 auto;
+        }
+    
+        .slide-wrapper {
+            
+            display: flex;
+            transition: transform 0.5s ease;
+        }
+    
+        .slide {
+            flex: 0 0 50%;
+            padding: 20px;
+        }
+    
+        button {
+            cursor: pointer;
+            padding: 10px 20px;
+            margin-top: 10px;
+            margin-left: 1%;
+        }
+        .review-box {
+            background-color: #efeae1;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .ll{
+            color: #265f9c;
+        }
+    
+        .review-author {
+            font-weight: bold;
+            margin-top: 1%;
+    
+        }
+    
+        .review-content {
+            size: 70%;
+            line-height: 1.6;
+        }
+    
+    
+        .review-image {
+            width: 30%;
+            height: auto;
+            border-radius: 50%;
+            
+            margin-left: 35%;
+            margin-right: 50%;
+        }
+    
+        .review-quote {
+            background-color: #d5cdbb; /* Background color for the quote box */
+            padding: 10px;
+            border-radius: 5px;
+            font-style: initial;
+            margin-bottom: 10px;
+            font-size: large;
+        }
+    
+        .review-author {
+            font-weight: bold;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+    
+        .button-container {
+            margin-left: 44%; /* Adjust the left margin as needed */
+            color: rgba(148, 45, 45, 0.562);
+        }
+        
+
+
+
+
+       .dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+        border-radius: 5px;
+    }
+
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+    }
+
+    .dropdown-content a:hover {
+        background-color: #f1f1f1;
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    .icon {
+        width: 20px;
+        height: 20px;
+        margin-right: 10px;
+    }
+
+
+
+
+
+    .large-footer {
+        background: linear-gradient(to right, #4776E6, #8E54E9);
+        color: #fff;
+        
+        padding: 40px 0;
+        text-align: center;
+        border-top-left-radius: 50% 50px; 
+        border-top-right-radius: 50% 50px;
+      }
+      
+      .footer-content {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+      
+      .contact-info, .professional-statement {
+        width: 45%;
+        padding: 20px;
+        border-radius: 20px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+        margin: 20px;
+        transition: transform 0.3s ease;
+      }
+      
+      .contact-info:hover, .professional-statement:hover {
+        transform: translateY(-5px);
+      }
+      
+      .contact-info {
+        background: #4a69bd; /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #4a69bd, #4a69bd);
+        background: linear-gradient(to right, #4a69bd, #4a69bd);
+      }
+      
+      .professional-statement {
+        background: #833ab4; /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #833ab4, #833ab4);
+        background: linear-gradient(to right, #833ab4, #833ab4);
+      }
+      
+      .contact-info h2, .professional-statement h2 {
+        color: #fff;
+      }
+      
+      .contact-info p, .professional-statement p {
+        color: #eee;
+        margin: 10px 0;
+      }
+      
+      .contact-info a, .professional-statement a {
+        color: #f1c40f;
+      }
+
+        
+    </style>
+</head>
+<body>
+
+    <script>
+        // JavaScript code here
+        const prevBtn = document.querySelector('.prev-btn');
+        const nextBtn = document.querySelector('.next-btn');
+        const templateSlider = document.querySelector('.template-slider');
+    
+        nextBtn.addEventListener('click', () => {
+            templateSlider.scrollBy({
+                left: 320,
+                behavior: 'smooth'
+            });
+        });
+    
+        prevBtn.addEventListener('click', () => {
+            templateSlider.scrollBy({
+                left: -320,
+                behavior: 'smooth'
+            });
+        });
+    </script>
+
+<header>
+    <div class="resume-scanner"><a href="Main.html">Resume Scanner</a></div>
+    <nav>
+
+        <div class="dropdown">
+            <a href="#">RESUMES</a>
+            <div class="dropdown-content">
+                <a href="#">
+                    <img src="./images/123.avif" alt="Resume" class="icon"> Resume
+                </a>
+                <a href="#">
+                    <img src="./images/x.png" alt="Check" class="icon"> Check
+                </a>
+                <a href="#">
+                    <img src="./images/y.png" alt="Criteria" class="icon"> Criteria
+                </a>
+                <a href="#">
+                    <img src="./images/z.png" alt="Apply" class="icon"> Apply
+                </a>
+            </div>
+        </div>
+
+
+        <a href="./folder1/ind1.html">CHECK DOMAIN</a>
+        <a href="http://localhost:5173/">FIND-JOB</a>
+        <a href="./folder2/index.html">HINTS</a>
+        <!-- <a href="./login.html">LOGIN</a>
+        <a href="signup.html">SIGN UP</a> -->
+        <a href="#">HELP</a>
+    </nav>
+</header>
+
+
+
+<section style="background: linear-gradient(135deg, #2980b9, #2c3e50); color: #fff; padding: 180px; text-align: center; border-top-left-radius: 20px; border-top-right-radius: 20px; border-bottom-left-radius: 50% 50px; border-bottom-right-radius: 50% 50px;">
+    <h1 style="font-size: 3em; margin-bottom: 20px;">Make Your Resume Perfect</h1>
+    <p style="font-size: 1.2em; line-height: 1.6; margin-bottom: 30px;">Build a resume for the job you want. My Perfect Resume will help you every step of the way with tools, guides, and expert advice.</p>
+    <div style="margin-bottom: 30px;">
+        <a href="http://localhost:8501" class="btn" style="padding: 15px 30px; font-size: 1.2em; background-color: #3498db; border-radius: 30px; text-decoration: none; transition: background-color 0.3s ease;">Try Resume Scanner</a>
+    </div>
+
+    <div style="display: flex; justify-content: center;">
+        <img src="./images/pngtree-vector-resume-icon-png-image_953181.jpg" alt="Resume Icon" style="width: 150px; height: auto; margin-right: 20px;" class="circular-image">
+        <img src="./images/images.png" alt="Scanner Icon" style="width: 150px; height: auto;" class="circular-image">
+        
+    </div>
+</section>
+
+
+
+
+
+<section>
+    <h1 class="ll">Get hired fast with My Perfect Resume</h1>
+    <div class="flex-container">
+        <div class="flex-box">
+            <img src="./images/a.svg" alt="">
+            <h2>Build a professional resume in minutes</h2>
+            <p>Craft a job-winning resume in just a few clicks with our online Resume Builder. Use our Cover Letter Generator to make a cover letter that complements your resume.</p>
+        </div>
+        <div class="flex-box">
+            <img src="./images/b.svg" alt="">
+            <h2>Select from 40+ ATS-friendly templates</h2>
+            <p>Our customizable resume, cover letter and CV templates are formatted to pass applicant tracking systems (ATS). Beat the bots and get noticed by recruiters.</p>
+        </div>
+        <div class="flex-box">
+            <img src="./images/c.svg" alt="">
+            <h2>Click to add prewritten content suggestions</h2>
+            <p>Overcome writer’s block with ready-made content from Certified Resume Writers. Add targeted skills and work experience bullet points in a single click.</p>
+        </div>
+        <div class="flex-box">
+            <img src="./images/d.svg" alt="">
+            <h2>Scan your resume for ATS compatibility</h2>
+            <p>Use our ATS Resume Checker to scan your resume for 30+ common errors. Point and click to implement expert-recommended fixes to improve your resume score.</p>
+        </div>
+        <div class="flex-box">
+            <img src="./images/e.svg" alt="">
+            <h2>Get inspired by professionally made samples</h2>
+            <p>Explore resume examples and cover letter examples for any position. Our samples are professionally written and crafted according to industry standards.</p>
+        </div>
+        <div class="flex-box">
+            <img src="./images/f.svg" alt="">
+            <h2>Outperform the competition with expert guidance</h2>
+            <p>Visit our career center for expert advice on navigating your job search, or contact our dedicated customer support team for your account needs.</p>
+        </div>
+    </div>
+    <br>
+    <a href="http://localhost:8502" class="btn">Make My Resume Perfect</a>
+</section>
+
+
+
+<div class="testimonial-slider">
+    <div class="slide-wrapper">
+        <div class="slide">
+            <div class="review-box">
+                <div class="review-author" > <img src="./images/image.png" alt="Valera P." class="review-image">Valera P.</div><br>
+                <div class="review-quote">"The proof that it works is this…the moment I published it, I got 7 job offers to interview!"</div>
+                <div class="review-content">
+                    <p>My Perfect Resume is exactly what it says! I dreaded the whole process of drafting a resume, but My Perfect Resume pretty much did all the work for me…perfectly!</p>
+                    <p>I am extremely happy about the professional wording, the cover letter, and ease of application! It’s very easily edited to fit different jobs, and most wording is already there for you to choose if you like.</p>
+                    <p>I am so glad I found this company and will share it with anyone who needs their services. The price is so affordable and the customer service is superior and unexpected as well.</p>
+                </div>
+            </div>
+        </div>
+
+    
+        <div class="slide">            
+            <div class="review-box">
+            <div class="review-author" > <img src="./images/avtar1.png" alt="Valera P." class="review-image">Valera P.</div><br>
+            <div class="review-quote">"The proof that it works is this…the moment I published it, I got 7 job offers to interview!"</div>
+            <div class="review-content">
+                <p>My Perfect Resume is exactly what it says! I dreaded the whole process of drafting a resume, but My Perfect Resume pretty much did all the work for me…perfectly!</p>
+                <p>I am extremely happy about the professional wording, the cover letter, and ease of application! It’s very easily edited to fit different jobs, and most wording is already there for you to choose if you like.</p>
+                <p>I am so glad I found this company and will share it with anyone who needs their services. The price is so affordable and the customer service is superior and unexpected as well.</p>
+            </div>
+        </div></div>
+
+        <div class="slide">
+            <div class="review-box">
+                <div class="review-author" > <img src="./images/image.png" alt="Valera P." class="review-image">Valera P.</div><br>
+                <div class="review-quote">"The proof that it works is this…the moment I published it, I got 7 job offers to interview!"</div>
+                <div class="review-content">
+                    <p>My Perfect Resume is exactly what it says! I dreaded the whole process of drafting a resume, but My Perfect Resume pretty much did all the work for me…perfectly!</p>
+                    <p>I am extremely happy about the professional wording, the cover letter, and ease of application! It’s very easily edited to fit different jobs, and most wording is already there for you to choose if you like.</p>
+                    <p>I am so glad I found this company and will share it with anyone who needs their services. The price is so affordable and the customer service is superior and unexpected as well.</p>
+                </div>
+            </div>
+        </div>
+
+    
+        <div class="slide">            
+            <div class="review-box">
+            <div class="review-author" > <img src="./images/avatar2.png" alt="Valera P." class="review-image">Valera P.</div><br>
+            <div class="review-quote">"The proof that it works is this…the moment I published it, I got 7 job offers to interview!"</div>
+            <div class="review-content">
+                <p>My Perfect Resume is exactly what it says! I dreaded the whole process of drafting a resume, but My Perfect Resume pretty much did all the work for me…perfectly!</p>
+                <p>I am extremely happy about the professional wording, the cover letter, and ease of application! It’s very easily edited to fit different jobs, and most wording is already there for you to choose if you like.</p>
+                <p>I am so glad I found this company and will share it with anyone who needs their services. The price is so affordable and the customer service is superior and unexpected as well.</p>
+            </div>
+        </div></div>
+
+        <div class="slide">Customer Review 5</div>
+        <div class="slide">Customer Review 6</div>
+        <div class="slide">Customer Review 7</div>
+        <div class="slide">Customer Review 8</div>
+        <div class="slide">Customer Review 9</div>
+        <div class="slide">Customer Review 10</div>
+    </div>
+</div>
+
+<div class="button-container">
+    <button id="prevBtn">Previous</button>
+    <button id="nextBtn">Next</button>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<section>
+    <h1 class="ll">Craft a Targeted Resume with My Perfect Resume</h1>
+    <h3>Easily tailor your resume to target a specific job title or industry. Customize the design and format of your resume to match your professional style.</h3>
+    <div class="flex-container">
+        <div class="flex-box">
+            <img src="./images/x.png" alt="">
+            <p>Click to add job-specific content written by Certified Professional Resume Writers.</p>
+        </div>
+        <div class="flex-box">
+            <img src="./images/y.png" alt="">
+            <p>Easily tailor your resume to target a specific job title or industry.</p>
+        </div>
+        <div class="flex-box">
+            <img src="./images/z.png" alt="">
+            <p>Customize the design and format of your resume to match your professional style.</p>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h1 class="ll">Get Inspired with My Perfect Resume Examples</h1>
+    <h3>Choose a resume example for your industry or job title and customize it to your liking!</h3>
+    <div class="flex-container">
+        <div class="flex-box">
+            <img src="./images/q.svg" alt="">
+            <h2>Top Resume Examples</h2>
+            <ul>
+                <li><a class="custom-link" href="#">Customer Service Representative</a></li>
+                <li><a class="custom-link" href="#">Disability Support Worker</a></li>
+                <li><a class="custom-link" href="#">Nurse Practitioner</a></li>
+                <li><a class="custom-link" href="#">Personal Trainer</a></li>
+            </ul>
+        </div>
+        <div class="flex-box">
+            <img src="./images/w.svg" alt="">
+            <h2>Top Cover Letter Examples</h2>
+            <ul>
+                <li><a class="custom-link" href="#">Administrative Assistant</a></li>
+                <li><a class="custom-link" href="#">Customer Service Representative</a></li>
+                <li><a class="custom-link" href="#">Data Entry Specialist</a></li>
+                <li><a class="custom-link" href="#">Executive Assistant</a></li>
+            </ul>
+        </div>
+        <div class="flex-box">
+            <img src="./images/r.svg" alt="">
+            <h2>Top CV Examples</h2>
+            <ul>
+                <li><a class="custom-link" href="#">Accountant</a></li>
+                <li><a class="custom-link" href="#">Assistant Professor</a></li>
+                <li><a class="custom-link" href="#">Civil Engineer</a></li>
+                <li><a class="custom-link" href="#">Customer Service Officer</a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="last-text">
+        <h1>Make a resume with My Perfect Resume</h1>
+        <p>Start now. Use our Resume Builder now!</p>
+    </div>
+    <div class="image-last">
+        <a href="#"><img src="./images/qwerty.svg" alt="Image" class="img"></a>
+    </div>
+</section>
+
+<footer class="large-footer">
+    <div class="footer-content">
+      <div class="contact-info">
+        <h2>Contact Information</h2>
+        <p>Sumit</p>
+        <p>123 Main Street, City, State, ZIP Code</p>
+        <p>Phone: 9350833730</p>
+        <p>Email: <a href="sumitsharma44890@email.com">sumitsharma44890@email.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">linkedin.com/in/johndoe</a></p>
+      </div>
+      <div class="professional-statement">
+        <h2>Professional Statement</h2>
+        <p>"Passionate professional dedicated to continuous learning and growth, seeking opportunities to contribute expertise in [Your Field/Area of Expertise]."</p>
+        <p>"Passionate professional dedicated to continuous learning and growth, seeking opportunities to contribute expertise in [Your Field/Area of Expertise]."</p> 
+    </div>
+    </div>
+  </footer>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const slider = document.querySelector(".testimonial-slider");
+        const slidesWrapper = document.querySelector(".slide-wrapper");
+        const slides = document.querySelectorAll(".slide");
+        const prevBtn = document.getElementById("prevBtn");
+        const nextBtn = document.getElementById("nextBtn");
+        const slideWidth = slides[0].offsetWidth;
+        let currentIndex = 0;
+    
+        // Function to move to next slide
+        function nextSlide() {
+            if (currentIndex < slides.length - 2) {
+                currentIndex += 2;
+                updateSlide();
+            }
+        }
+    
+        // Function to move to previous slide
+        function prevSlide() {
+            if (currentIndex > 0) {
+                currentIndex -= 2;
+                updateSlide();
+            }
+        }
+    
+        // Function to update slide display
+        function updateSlide() {
+            const translateX = -currentIndex * slideWidth + "px";
+            slidesWrapper.style.transform = `translateX(${translateX})`;
+        }
+    
+        // Event listener for next button
+        nextBtn.addEventListener("click", nextSlide);
+    
+        // Event listener for previous button
+        prevBtn.addEventListener("click", prevSlide);
+    });
+    </script>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+$(document).ready(function(){
+    $("#scanResumeButton").click(function(){
+        $.ajax({
+            url: "http://127.0.0.1:5000/scan_resume",  // Change the URL to your Flask endpoint
+            type: "GET",
+            success: function(response) {
+                // Handle successful response here (if needed)
+                console.log(response);
+            },
+            error: function(xhr) {
+                // Handle error here (if needed)
+                console.log(xhr);
+            }
+        });
+    });
+});
+</script>
+
+</body>
+</html>

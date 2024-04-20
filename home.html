@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Scanner</title>
+    <style>
+        /* Reset styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        nav{
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px 0;
+        }
+
+        nav ul{
+            list-style: none;
+            width: 100%;
+            text-align: right;
+            padding-right: 60px;
+        }
+
+        nav ul li{
+            display: inline-block;
+            margin: 10px 20px;
+
+        }
+
+        nav ul li a{
+            color: #fff;
+            text-decoration: none;
+        }
+
+        .right-center {
+            position: absolute;
+            top: 50%;
+            right: 0;
+            transform: translate(0, -50%);
+        }
+
+        .left-top {
+            position: absolute;
+            color:white;
+            
+            left: 100px; /* Adjust as needed */
+            top: 30%; /* Adjust as needed */
+            transform: translateY(-50%);
+        }
+
+        .left-text {
+            position: absolute;
+            color: white;
+            left: 100px; /* Adjust as needed */
+            top: 50%; /* Adjust as needed */
+            transform: translateY(-50%);
+        }
+        
+        
+        body {
+            font-family: Arial, sans-serif;
+            background-color:#2F2FA2;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #240988;
+            color: #fff;
+    
+            padding: 20px 0;
+            text-align: left;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        main {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+        .myperfectresume {
+            text-align: center;
+            background-color: #f2f2f2;
+            padding: 40px;
+            color: #333;
+            font-size: 24px;
+            border-radius: 10px; /* Add border-radius property here */
+          }
+        
+        .box-section{
+            font-family: sans-serif;
+            font-weight: normal;
+            margin-bottom: 20px;
+          }
+
+        .upload-section, .scan-results {
+            margin-bottom: 20px;
+            width: 100%;
+            max-width: 500px;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        .upload-section h2, .scan-results h2 {
+            margin-bottom: 10px;
+        }
+
+        input[type="file"] {
+            display: none;
+        }
+
+        label {
+            display: block;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        label:hover {
+            background-color: #444;
+        }
+
+        #scan-results {
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        footer {
+            background-color: #240988;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            width: 100%;
+            position: fixed;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <!-- <h1>Resume Scanner</h1> -->
+        <nav>
+            <h1>Resume_Scanner</h1>
+            <ul>
+                <li><a href="">Login </a></li>
+                <li><a href="">Sign up</a></li>
+            </ul>
+        </nav>
+    </header>
+   
+    <main>
+        <section>
+        <img src="free-ats-resume-scanner_700x700.webp" alt="Sample Image" class="right-center">
+        <div class="left-top">
+            <p>SCORE MY RESUME - RESUME SCAN</p>
+            
+        </div>
+        <div class="left-text">
+         
+                <h1>Learn how to <br>improve your <br>resume, instantly</h1>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <p>Upload your resume and our free resume scanner will evaluate it against key <br>criteria hiring managers and applicant tracking systems (ATS) look for. Get <br>actionable feedback on how to improve your resume's success rate.</p>
+                
+
+        </div>
+    </section>
+        
+    <section class="myperfectresume">
+            <h1 class="box-section">create a Resume right now </h1>
+         </section>
+          
+
+        
+
+        
+    </main>
+    <!-- <footer>
+        <p>&copy; 2024 Resume Scanner</p>
+    </footer> -->
+
+    <script>
+        document.getElementById('resume-upload').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (file) {
+                // Perform scan or processing here
+                // For demonstration purpose, let's just display file name as result
+                document.getElementById('scan-results').innerText = `Scanned: ${file.name}`;
+            } else {
+                document.getElementById('scan-results').innerText = 'No file uploaded';
+            }
+        });
+    </script>
+</body>
+</html>

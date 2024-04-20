@@ -1,0 +1,391 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .footer {
+    background: linear-gradient(135deg, #86aed9, #215972);
+    background-image: url(im.tiff);
+    color: #fff;
+    padding: 50px 0;
+    perspective: 1000px;
+    overflow: hidden;
+    height: 180px;
+    border-bottom-left-radius: 120px;
+    border-bottom-right-radius: 120px;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-content {
+    color: #0e2597;
+    text-align: center;
+    transform-style: preserve-3d;
+    transition: transform 0.5s ease;
+    animation: fadeIn 1s ease forwards; /* Fade-in animation */
+  }
+  
+  .footer:hover .footer-content {
+    transform: rotateX(10deg) rotateY(5deg);
+  }
+  
+  .footer-content h2 {
+    font-size: 3em;
+    margin: 0;
+    letter-spacing: 3px;
+    animation: pulsate 2s infinite alternate; /* Pulsating animation */
+  }
+  
+  .footer-content p {
+    font-size: 1.2em;
+    margin-top: 20px;
+    opacity: 0.8;
+    animation: bounce 1s infinite alternate; /* Bouncing animation */
+  }
+  
+  .h21 {
+    font-size: xx-large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #083361;
+    letter-spacing: 2px;
+    text-align: center;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(50px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes pulsate {
+    0% {
+      transform: scale(1);
+    }
+    100% {
+      transform: scale(1.1);
+    }
+  }
+  
+  @keyframes bounce {
+    0% {
+      transform: translateY(0);
+    }
+    100% {
+      transform: translateY(-10px);
+    }
+  }
+
+
+  .hero {
+    /* background-image: url('diversity-hands-searching-job-search-260nw-241745419.webp'); */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+
+    h2 {
+        font-size: 42px;
+        margin-bottom: 20px;
+        
+    }
+
+    p {
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+
+    .btn {
+        display: inline-block;
+        background-color: #007bff;
+        color: #fff;
+        text-decoration: none;
+        padding: 15px 30px;
+        font-size: 18px;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+
+        &:hover {
+            background-color: #0056b3;
+        }
+    }
+}
+
+/* How It Works Section */
+.how-it-works {
+    
+  background: #006EDC;
+  background: -moz-linear-gradient(17deg, #006EDC 0%, rgba(42, 172, 234, 1) 75%);
+  background: -webkit-linear-gradient(17deg, #006EDC 0%, rgba(42, 172, 234, 1) 75%);
+  background: linear-gradient(17deg, #006EDC 0%, rgba(42, 172, 234, 1) 75%);
+    text-align: center;
+    padding: 60px 0;
+
+    h2 {
+        font-size: 32px;
+        margin-bottom: 40px;
+    }
+
+    .steps {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .step {
+        flex: 1;
+        max-width: 300px;
+        margin: 20px;
+        padding: 30px;
+        background-color: #f9f9f9;
+        border-radius: 10px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+
+        i {
+            font-size: 48px;
+            margin-bottom: 20px;
+            color: #007bff;
+        }
+
+        h3 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 16px;
+        }
+    }
+}
+
+#button {
+  padding: 20px;
+ 
+  border-radius: 10px;
+  
+}
+
+#myButton {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#myButton:hover {
+  background-color: #0056b3;
+}
+
+/* -------------------- */
+
+section#andy {
+  margin-top: -3px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  color: #fff;
+  padding: 100px 0 40px;
+  min-height: 360px;
+  padding-bottom: 50px;
+  background: #006EDC;
+  background: -moz-linear-gradient(17deg, #006EDC 0%, rgba(42, 172, 234, 1) 75%);
+  background: -webkit-linear-gradient(17deg, #006EDC 0%, rgba(42, 172, 234, 1) 75%);
+  background: linear-gradient(17deg, #006EDC 0%, rgba(42, 172, 234, 1) 75%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#006EDC",endColorstr="#2aacea",GradientType=1);
+}
+
+body .home-left {
+  padding-left: 60px;
+  margin-left: 0em;
+  margin-right: 0em;
+  padding-right: 20px;
+  min-width: 200px;
+  text-align: left !important;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+.home-left h1 {
+  color: #fff;
+  margin-bottom: 27px;
+  font-size: 2.7vw;
+  line-height: 112%;
+}
+
+home-right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 56%;
+  height: 100%;
+  padding: 40px 0;
+}
+
+/* ---------------------- */
+section.hero_blue_header {
+  background: #006EDC;
+  background: -moz-linear-gradient(17deg, #006EDC 0%, rgba(42, 172, 234, 1) 75%);
+  background: -webkit-linear-gradient(17deg, #006EDC 0%, rgba(42, 172, 234, 1) 75%);
+  background: linear-gradient(17deg, #006EDC 0%, rgba(42, 172, 234, 1) 75%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#006edc",endColorstr="#2aacea",GradientType=1);
+  color: #fff;
+  padding: 50px 0 70px;
+  min-height: auto;
+}
+.containerbig {
+  position: relative;
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.bready_crumbs {
+  display: none;
+  margin-bottom: 0;
+    padding: 0;
+  margin-bottom: 20px;
+  padding-left: 20px;
+  text-align: left;
+  line-height: 17px;
+}
+
+#breadcrumbs {
+  color: #fff;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+span.separatione {
+  padding: 0 5px;
+  border: 0;
+  font-family: open sans, -apple-system, BlinkMacSystemFont, segoe ui, roboto, oxygen, ubuntu, cantarell, fira sans, droid sans, helvetica neue, sans-serif;
+  font-size: 100%;
+  font-style: inherit;
+  font-weight: inherit;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  vertical-align: baseline;
+}
+
+span.breadcrumb_last {
+  color: #fff;
+  font-family: Helvetica, Arial, sans-serif;
+  text-transform: none;
+  font-size: 12px;
+  font-weight: 700;
+  font-style: inherit;
+  letter-spacing: 0;
+  line-height: 13px;
+  transition: none !important;
+  padding: 0;
+}
+
+.row {
+  margin-right: 0;
+  border: 0;
+    font-family: open sans, -apple-system, BlinkMacSystemFont, segoe ui, roboto, oxygen, ubuntu, cantarell, fira sans, droid sans, helvetica neue, sans-serif;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+  margin-left: 0;
+}
+
+a.hero_cta {
+  border: 0;
+  border-radius: 15px;
+  color: #fff;
+  background: #035D91;
+  padding: 12px 15px;
+  max-width: 300px;
+    width: 100%;
+    margin-bottom: 18px;
+    font-size: 15px;
+    font-family: inherit;
+    display: block;
+    margin: 28px auto 30px;
+  box-shadow: none;
+  font-weight: 700;
+  max-width: 500px;
+    letter-spacing: .5px;
+    line-height: normal;
+    text-align: center;
+}
+
+.heros_img {
+  display: block;
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  top: 0;
+  right: auto;
+  left: auto;
+}
+
+figure {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin: 0;
+  margin-inline-start: 40px;
+  margin-inline-end: 40px;
+  unicode-bidi: isolate;
+}
+
+.hero_blue_header img {
+  margin: 20px auto;
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  /* vertical-align: middle; */
+  height: auto;
+  object-fit: contain;
+}
+
+.hero_h1 {
+  color: #fff;
+  font-family: 'Open Sans';
+  font-size: 45px;
+  font-weight: 700;
+  letter-spacing: -1.16px;
+  line-height: 54px;
+  margin-bottom: 20px;
+  display: block;
+  max-width: 500px;
+  padding-top: 12px;
+}
+
+.hero_p {
+  font-size: 14px;
+  font-weight: 400;
+    letter-spacing: 0;
+  line-height: 23px;
+  margin-bottom: 20px;
+  max-width: 500px;
+  font-family: inherit;
+}
